@@ -17,6 +17,7 @@
 *albumoftheyear.org
 *aljazeera.com
 *allmusic.com
+*allthefanfare.com
 *alternet.org
 *amazon.com
 *americanthinker.com
@@ -193,6 +194,7 @@
 *ghacks.net
 *gigaom.com
 *gizmodo.com
+*goal.com
 *gocomics.com
 *goldderby.com
 *gossipcop.com
@@ -300,6 +302,7 @@
 *linkage.ds8.zone
 *links.hackliberty.org
 *links.roobre.es
+*listverse.com
 *liveleak.com
 *livescience.com
 *lm.korako.me
@@ -360,6 +363,7 @@
 *nbcnews.com
 *ndtv.com
 *neowin.net
+*nerdhits.com.br
 *netflix.com
 *newgrounds.com
 *newrepublic.com
@@ -428,6 +432,7 @@
 *ohai.social
 *omegle.com
 *omgubuntu.co.uk
+*onefootball.com
 *opalstack.social
 *openai.com
 *opensea.io
@@ -492,6 +497,7 @@
 *quillette.com
 *quora.com
 *qwantz.com
+*radiotimes.com
 *raphus.social
 *rasmussenreports.com
 *rateyourmusic.com
@@ -516,6 +522,7 @@
 *screenrant.com
 *slant.co
 *slashdot.org
+*slashfilm.com
 *slate.com
 *sling.com
 *slither.io
@@ -630,6 +637,7 @@
 *vogue.com
 *vox.com
 *vrv.co
+*vulture.com
 *w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion
 *washingtonexaminer.com
 *washingtonmonthly.com
@@ -641,6 +649,7 @@
 *web.archive.org
 *webtoons.com
 *wegotthiscovered.com
+*whatculture.com
 *wired.com
 *wnd.com
 *wondermark.com
